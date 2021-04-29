@@ -3,6 +3,8 @@
 | Status | Accepted |
 | --- | --- |
 | **Runtime** | 36ms |
+| Submissions | 8.2M |
+| Accepted | 4.2M |
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
