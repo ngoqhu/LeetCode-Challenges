@@ -2,6 +2,7 @@
 ---------
 | Status | Accepted |
 | --- | --- |
+| Difficulty | Easy |
 | Runtime | 40ms (faster than 94.55% of other python submissions) |
 | Memory usage | 14.3MB (less than 90.65% of other python submissions) |
 | Submissions | 8.2M |
