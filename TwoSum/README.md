@@ -2,10 +2,11 @@
 ---------
 | Status | Accepted |
 | --- | --- |
-| **Runtime** | 36ms |
+| Runtime | 40ms (faster than 94.55% of other python submissions) |
+| Memory usage | 14.3MB (less than 90.65% of other python submissions) |
 | Submissions | 8.2M |
 | Accepted | 4.2M |
-| Time Complexity | O(n) |
+| Time Complexity | O(n<sup>2</sup>) |
 | Space Complexity | O(1) |
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
