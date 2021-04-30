@@ -7,7 +7,7 @@
 | Memory usage | 14.3MB (less than 82.3% of other python submissions) |
 | Submissions | 2.8M |
 | Accepted | 1M |
-| Time Complexity | O(n.S) |
+| Time Complexity | O(n.L), L is length of longest string |
 | Space Complexity | O(1) |
 
 Write a function to find the longest common prefix string amongst an array of strings.
