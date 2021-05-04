@@ -1,4 +1,4 @@
-## Valid Parantheses
+## Divide Two Integers
 ---------
 | Status | Accepted |
 | --- | --- |
