@@ -10,3 +10,4 @@
 | 20 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidParantheses>Valid Parantheses</a> | Easy |
 | 26 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedArray>Remove Duplicates from Sorted Array</a> | Easy |
 | 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy |
+| 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium |
