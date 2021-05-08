@@ -11,4 +11,4 @@
 | 26 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedArray>Remove Duplicates from Sorted Array</a> | Easy |
 | 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy |
 | 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium |
-| 45 | Jump Game II | No |
+| 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium |
