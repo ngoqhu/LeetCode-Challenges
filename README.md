@@ -13,3 +13,4 @@
 | 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium |
 | 35 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SearchInsertPosition>Search Insert Position</a> | Easy |
 | 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium |
+| 53 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumSubarray>Maximum Subarray</a> | Easy |
