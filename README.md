@@ -9,10 +9,10 @@
 | 14 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestCommonPrefix>Longest Common Prefix</a> | Easy | Algorithms | Python |
 | 20 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidParantheses>Valid Parantheses</a> | Easy | Algorithms | Python |
 | 26 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedArray>Remove Duplicates from Sorted Array</a> | Easy | Algorithms | Python |
-| 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy | Algorithms |
+| 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy | Algorithms |Python 
 | 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium | Algorithms | Python |
 | 35 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SearchInsertPosition>Search Insert Position</a> | Easy | Algorithms | Python |
-| 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium | Algorithms |
+| 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium | Algorithms |Python 
 | 53 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumSubarray>Maximum Subarray</a> | Easy | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | MySQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | MySQL |
