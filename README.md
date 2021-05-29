@@ -19,3 +19,4 @@
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
 | 181 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/EmployeesEarningMoreThanTheirManagers>Employees Earning More Than Their Managers</a> | Easy | Database | SQL |
 | 182 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DuplicateEmails>Duplicate Emails</a> | Easy | Database | SQL |
+| 183 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CustomersWhoNeverOrdered>Customers Who Never Ordered</a> | Easy | Database | SQL |
