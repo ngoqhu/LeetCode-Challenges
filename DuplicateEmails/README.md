@@ -1,4 +1,4 @@
-## Combine Two Tables
+## Duplicate Emails
 ---------
 | Status | Accepted |
 | --- | --- |
