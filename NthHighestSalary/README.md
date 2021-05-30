@@ -3,7 +3,7 @@
 | Status | Accepted |
 | --- | --- |
 | Difficulty | Medium |
-| Runtime | 425ms (faster than 20.48% of other python submissions) |
+| Runtime | 425ms (faster than 20.48% of other mysql submissions) |
 | Submissions | 491k |
 | Accepted | 166k |
 
