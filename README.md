@@ -21,3 +21,4 @@
 | 182 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DuplicateEmails>Duplicate Emails</a> | Easy | Database | SQL |
 | 183 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CustomersWhoNeverOrdered>Customers Who Never Ordered</a> | Easy | Database | SQL |
 | 196 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DeleteDuplicateEmails>Delete Duplicate Emails</a> | Easy | Database | SQL |
+| 197 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RisingTemperature>Rising Temperature</a> | Easy | Database | SQL |
