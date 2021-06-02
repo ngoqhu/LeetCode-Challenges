@@ -24,3 +24,4 @@
 | 197 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RisingTemperature>Rising Temperature</a> | Easy | Database | SQL |
 | 595 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BigCountries>Big Countries</a> | Easy | Database | SQL |
 | 596 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClassesMoreThanFiveStudents>Classes More Than Five Students</a> | Easy | Database | SQL |
+| 1114 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintInOrder>Print In Order</a> | Easy | Concurrency | C# |
