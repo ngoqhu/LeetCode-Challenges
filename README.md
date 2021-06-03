@@ -17,6 +17,7 @@
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
+| 178 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RankScores>Rank Scores</a> | Medium | SQL |
 | 181 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/EmployeesEarningMoreThanTheirManagers>Employees Earning More Than Their Managers</a> | Easy | Database | SQL |
 | 182 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DuplicateEmails>Duplicate Emails</a> | Easy | Database | SQL |
 | 183 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CustomersWhoNeverOrdered>Customers Who Never Ordered</a> | Easy | Database | SQL |
