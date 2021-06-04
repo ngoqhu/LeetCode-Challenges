@@ -4,6 +4,7 @@
 |:---:|---|:-:|:-:|:-:|
 | 1 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/TwoSum>Two Sum</a> | Easy | Algorithms | Python |
 | 7 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ReverseInteger>Reverse Integer</a> | Easy | Algorithms | Python |
+| 8 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/StringToIntegerAtoi>String To Integer (Atoi)</a> | Medium | Algorithms | Python |
 | 9 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PalindromeNumber>Palindrome Number</a> | Easy | Algorithms | Python |
 | 13 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RomanToInteger>Roman to Integer</a> | Easy | Algorithms | Python |
 | 14 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestCommonPrefix>Longest Common Prefix</a> | Easy | Algorithms | Python |
