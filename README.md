@@ -1,5 +1,9 @@
 ## List of all finished problems
 ---------------
+- **Easy: 21**
+- **Medium: 6**
+- **Hard: 0**
+
 | # | Title | Difficulty | Category | Language |
 |:---:|---|:-:|:-:|:-:|
 | 1 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/TwoSum>Two Sum</a> | Easy | Algorithms | Python |
