@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: 21**
-- **Medium: 9**
+- **Medium: 10**
 - **Hard: 0**
 
 | # | Title | Difficulty | Category | Language |
@@ -17,7 +17,8 @@
 | 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy | Algorithms |Python 
 | 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium | Algorithms | Python |
 | 35 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SearchInsertPosition>Search Insert Position</a> | Easy | Algorithms | Python |
-| 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium | Algorithms |Python 
+| 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium | Algorithms | Python |
+| 50 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PowXN>Pow(x,n)</a> | Medium | Algorithms | Python |
 | 53 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumSubarray>Maximum Subarray</a> | Easy | Algorithms | Python |
 | 58 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LengthOfLastWord>Length of Last Word</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
