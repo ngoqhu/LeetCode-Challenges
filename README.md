@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: 21**
-- **Medium: 10**
+- **Medium: 11**
 - **Hard: 0**
 
 | # | Title | Difficulty | Category | Language |
@@ -22,6 +22,7 @@
 | 53 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumSubarray>Maximum Subarray</a> | Easy | Algorithms | Python |
 | 58 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LengthOfLastWord>Length of Last Word</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
+| 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
