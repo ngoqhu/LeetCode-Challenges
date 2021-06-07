@@ -1,4 +1,4 @@
-## Merge Two Sorted Lists
+## Plus One
 ---------
 | Status | Accepted |
 | --- | --- |
