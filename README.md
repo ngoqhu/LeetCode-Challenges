@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 25**
+- **Easy: 26**
 - **Medium: 11**
 - **Hard: 1**
 
@@ -25,6 +25,7 @@
 | 58 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LengthOfLastWord>Length of Last Word</a> | Easy | Algorithms | Python |
 | 66 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/PlusOne>Plus One</a> | Easy | Algorithms | Python |
 | 67 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/AddBinary>Add Binary</a> | Easy | Algorithms | Python |
+| 94 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreeInorderTraversal>Binary Tree Inorder Traversal</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
