@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 22**
+- **Easy: 23**
 - **Medium: 11**
 - **Hard: 1**
 
