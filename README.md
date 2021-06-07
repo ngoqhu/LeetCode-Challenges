@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 21**
+- **Easy: 22**
 - **Medium: 11**
 - **Hard: 1**
 
@@ -13,6 +13,7 @@
 | 13 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RomanToInteger>Roman to Integer</a> | Easy | Algorithms | Python |
 | 14 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestCommonPrefix>Longest Common Prefix</a> | Easy | Algorithms | Python |
 | 20 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidParantheses>Valid Parantheses</a> | Easy | Algorithms | Python |
+| 21 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MergeTwoSortedLists>Merge Two Sorted Lists</a> | Easy | Algorithms | Python |
 | 26 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedArray>Remove Duplicates from Sorted Array</a> | Easy | Algorithms | Python |
 | 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy | Algorithms |Python 
 | 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium | Algorithms | Python |
