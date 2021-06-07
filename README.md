@@ -28,6 +28,7 @@
 | 94 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreeInorderTraversal>Binary Tree Inorder Traversal</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
+| 150 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/EvaluateReversePolishNotation/README.md>Evaluate Reverse Polish Notation</a> | Medium | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
