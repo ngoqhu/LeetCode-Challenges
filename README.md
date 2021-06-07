@@ -15,7 +15,8 @@
 | 20 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidParantheses>Valid Parantheses</a> | Easy | Algorithms | Python |
 | 21 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MergeTwoSortedLists>Merge Two Sorted Lists</a> | Easy | Algorithms | Python |
 | 26 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedArray>Remove Duplicates from Sorted Array</a> | Easy | Algorithms | Python |
-| 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy | Algorithms |Python 
+| 27 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveElement>Remove element</a> | Easy | Algorithms | Python |
+| 28 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ImplementstrStr>Implement strStr()</a> | Easy | Algorithms | Python |
 | 29 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DivideTwoIntegers>Divide Two Integers</a> | Medium | Algorithms | Python |
 | 35 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SearchInsertPosition>Search Insert Position</a> | Easy | Algorithms | Python |
 | 45 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/JumpGameII>Jump Game II</a> | Medium | Algorithms | Python |
