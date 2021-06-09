@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 30**
+- **Easy: 31**
 - **Medium: 12**
 - **Hard: 1**
 
@@ -31,6 +31,7 @@
 | 94 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreeInorderTraversal>Binary Tree Inorder Traversal</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
 | 100 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SameTree>Same Tree</a> | Easy | Algorithms | Python |
+| 101 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SymmetricTree>Symmetric Tree</a> | Easy | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
 | 150 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/EvaluateReversePolishNotation/README.md>Evaluate Reverse Polish Notation</a> | Medium | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
