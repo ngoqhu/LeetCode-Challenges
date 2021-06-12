@@ -2,7 +2,7 @@
 ---------------
 - **Easy: 34**
 - **Medium: 14**
-- **Hard: 1**
+- **Hard: 2**
 
 | # | Title | Difficulty | Category | Language |
 |:---:|---|:-:|:-:|:-:|
