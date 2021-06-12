@@ -52,6 +52,7 @@
 | 462 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinimumMovesToEqualArrayII>Minimum Moves to Equal Array Elements II</a> | Medium | Algorithms | Python |
 | 595 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BigCountries>Big Countries</a> | Easy | Database | SQL |
 | 596 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClassesMoreThanFiveStudents>Classes More Than Five Students</a> | Easy | Database | SQL |
+| 601 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/HumanTrafficOfStadium>Human Traffic Of Stadium</a> | Hard | Database | SQL |
 | 729 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MyCalendarI>My Calendar I</a> | Medium | Algorithms | C# |
 | 1114 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintInOrder>Print In Order</a> | Easy | Concurrency | C# |
 | 1115 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintFooBarAlternately>Print FooBar Alternately</a> | Medium | Concurrency | C# |
