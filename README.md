@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: 34**
-- **Medium: 13**
+- **Medium: 14**
 - **Hard: 1**
 
 | # | Title | Difficulty | Category | Language |
@@ -49,6 +49,7 @@
 | 196 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DeleteDuplicateEmails>Delete Duplicate Emails</a> | Easy | Database | SQL |
 | 197 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RisingTemperature>Rising Temperature</a> | Easy | Database | SQL |
 | 344 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ReverseString>Reverse String</a> | Easy | Algorithms | Python |
+| 462 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinimumMovesToEqualArrayII>Minimum Moves to Equal Array Elements II</a> | Medium | Algorithms | Python |
 | 595 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BigCountries>Big Countries</a> | Easy | Database | SQL |
 | 596 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClassesMoreThanFiveStudents>Classes More Than Five Students</a> | Easy | Database | SQL |
 | 729 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MyCalendarI>My Calendar I</a> | Medium | Algorithms | C# |
