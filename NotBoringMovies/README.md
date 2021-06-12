@@ -4,47 +4,48 @@
 | --- | --- |
 | Difficulty | Easy |
 | Runtime | 167ms (faster than 88.33% of other mysql submissions) |
-| Submissions | 202.2k |
-| Accepted | 143k |
+| Submissions | 186.8k |
+| Accepted | 146.9k |
 
 ```
-+----------------+----------+
-| Column Name    | Type     |
-+----------------+----------+
-| id             | int      |
-| movie          | varchar  |
-| description    | varchar  |
-| rating         | float    |
-+----------------+----------+
++-------------+----------+
+| Column Name | Type     |
++-------------+----------+
+| id          | int      |
+| name        | varchar  |
+| sex         | ENUM     |
+| salary      | int      |
++-------------+----------+
 id is the primary key for this table.
-Each row contains information about the name of a movie, its genre, and its rating.
-rating is a 2 decimal places float in the range [0, 10]
+The sex column is ENUM value of type ('m', 'f').
+The table contains information about an employee.
 ```
-Write an SQL query to report the movies with an odd-numbered ID and a description that is not `"boring"`.
+Write an SQL query to swap all `'f'` and `'m'` values (i.e., change all `'f'` values to `'m'` and vice versa) with a **single update statement** and no intermediate temp table(s).
 
-Return the result table **in descending order by** `rating`.
+Note that you must write a single update statement, DO NOT write any select statement for this problem.
 
 The query result format is in the following example:
 
 ```
-Cinema table:
-+----+------------+-------------+--------+
-| id | movie      | description | rating |
-+----+------------+-------------+--------+
-| 1  | War        | great 3D    | 8.9    |
-| 2  | Science    | fiction     | 8.5    |
-| 3  | irish      | boring      | 6.2    |
-| 4  | Ice song   | Fantacy     | 8.6    |
-| 5  | House card | Interesting | 9.1    |
-+----+------------+-------------+--------+
+Salary table:
++----+------+-----+--------+
+| id | name | sex | salary |
++----+------+-----+--------+
+| 1  | A    | m   | 2500   |
+| 2  | B    | f   | 1500   |
+| 3  | C    | m   | 5500   |
+| 4  | D    | f   | 500    |
++----+------+-----+--------+
 
 Result table:
-+----+------------+-------------+--------+
-| id | movie      | description | rating |
-+----+------------+-------------+--------+
-| 5  | House card | Interesting | 9.1    |
-| 1  | War        | great 3D    | 8.9    |
-+----+------------+-------------+--------+
-
-We have three movies with odd-numbered ID: 1, 3, and 5. The movie with ID = 3 is boring so we don't include it in the answer.
++----+------+-----+--------+
+| id | name | sex | salary |
++----+------+-----+--------+
+| 1  | A    | f   | 2500   |
+| 2  | B    | m   | 1500   |
+| 3  | C    | f   | 5500   |
+| 4  | D    | m   | 500    |
++----+------+-----+--------+
+(1, A) and (3, C) were changed from 'm' to 'f'.
+(2, B) and (4, D) were changed from 'f' to 'm'.
 ```
