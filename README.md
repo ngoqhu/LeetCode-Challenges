@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 36**
+- **Easy: 37**
 - **Medium: 14**
 - **Hard: 2**
 
@@ -35,6 +35,7 @@
 | 104 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumDepthOfBinaryTree>Maximum Depth of Binary Tree</a> | Easy | Algorithms | Python |
 | 112 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PathSum>Path Sum</a> | Easy | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
+| 144 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreePreorderTraversal>Binary Tree Preorder Traversal</a> | Easy | Algorithms | Python |
 | 150 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/EvaluateReversePolishNotation/README.md>Evaluate Reverse Polish Notation</a> | Medium | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
