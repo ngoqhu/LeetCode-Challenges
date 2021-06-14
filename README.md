@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: 40**
-- **Medium: 14**
+- **Medium: 15**
 - **Hard: 2**
 
 | # | Title | Difficulty | Category | Language |
