@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 41**
+- **Easy: 42**
 - **Medium: 16**
 - **Hard: 2**
 
@@ -63,5 +63,6 @@
 | 695 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaxAreaOfIsland>Max Area of Island</a> | Medium | Algorithms | Python |
 | 709 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ToLowerCase>To Lower Case</a> | Easy | Algorithms | Python |
 | 729 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MyCalendarI>My Calendar I</a> | Medium | Algorithms | C# |
+| 746 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinCostClimbingStairs>Min Cost Climbing Stairs</a> | Easy | Algorithms | Python |
 | 1114 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintInOrder>Print In Order</a> | Easy | Concurrency | C# |
 | 1115 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintFooBarAlternately>Print FooBar Alternately</a> | Medium | Concurrency | C# |
