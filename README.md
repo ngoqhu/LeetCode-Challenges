@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: 42**
-- **Medium: 17**
+- **Medium: 18**
 - **Hard: 2**
 
 | # | Title | Difficulty | Category | Language |
@@ -67,3 +67,4 @@
 | 890 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/FindAndReplacePattern>Find and Replace Patterns</a> | Medium | Algorithms | Python |
 | 1114 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintInOrder>Print In Order</a> | Easy | Concurrency | C# |
 | 1115 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintFooBarAlternately>Print FooBar Alternately</a> | Medium | Concurrency | C# |
+| 1423 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumPointsYouCanObtainFromCards>Maximum Points You Can Obtain from Cards</a> | Medium | Algorithms | Python |
