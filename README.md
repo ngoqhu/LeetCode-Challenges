@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 45**
+- **Easy: 46**
 - **Medium: 18**
 - **Hard: 2**
 
@@ -36,6 +36,7 @@
 | 104 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumDepthOfBinaryTree>Maximum Depth of Binary Tree</a> | Easy | Algorithms | Python |
 | 111 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinimumDepthOfBinaryTree>Minimum Depth of Binary Tree</a> | Easy | Algorithms | Python |
 | 112 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PathSum>Path Sum</a> | Easy | Algorithms | Python |
+| 118 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PascalsTriangle>Pascal's Triangle</a> | Easy | Algorithms | Python |
 | 125 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidPalindrome>Valid Palindrome</a> | Easy | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
 | 136 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SingleNumber>Single Number</a> | Easy | Algorithms | Python |
