@@ -28,7 +28,7 @@
 | 69 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/Sqrt(x)>Sqrt(x)</a> | Easy | Algorithms | Python |
 | 70 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClimbingStairs>Climbing Stairs</a> | Easy | Algorithms | Python |
 | 83 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedList>Remove Duplicates From Sorted List</a> | Easy | Algorithms | Python |
-| 84 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MergeSortedArray>Merge Sorted Array</a> | Easy | Algorithms | Python |
+| 88 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MergeSortedArray>Merge Sorted Array</a> | Easy | Algorithms | Python |
 | 94 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreeInorderTraversal>Binary Tree Inorder Traversal</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
 | 100 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SameTree>Same Tree</a> | Easy | Algorithms | Python |
