@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: 46**
-- **Medium: 18**
+- **Medium: 19**
 - **Hard: 2**
 
 | # | Title | Difficulty | Category | Language |
@@ -29,6 +29,7 @@
 | 70 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClimbingStairs>Climbing Stairs</a> | Easy | Algorithms | Python |
 | 83 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedList>Remove Duplicates From Sorted List</a> | Easy | Algorithms | Python |
 | 88 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MergeSortedArray>Merge Sorted Array</a> | Easy | Algorithms | Python |
+| 92 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ReverseLinkedListII>Reverse Linked List II</a> | Medium | Algorithms | Python |
 | 94 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreeInorderTraversal>Binary Tree Inorder Traversal</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
 | 100 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SameTree>Same Tree</a> | Easy | Algorithms | Python |
