@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 48**
+- **Easy: 49**
 - **Medium: 19**
 - **Hard: 2**
 
@@ -43,6 +43,7 @@
 | 125 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidPalindrome>Valid Palindrome</a> | Easy | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
 | 136 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SingleNumber>Single Number</a> | Easy | Algorithms | Python |
+| 141 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LinkedListCycle>Linked List Cycle</a> | Easy | Algorithms | Python |
 | 144 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreePreorderTraversal>Binary Tree Preorder Traversal</a> | Easy | Algorithms | Python |
 | 145 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreePostorderTraversal>Binary Tree Postorder Traversal</a> | Easy | Algorithms | Python |
 | 150 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/EvaluateReversePolishNotation/README.md>Evaluate Reverse Polish Notation</a> | Medium | Algorithms | Python |
