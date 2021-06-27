@@ -1,4 +1,4 @@
-## Best Time to Buy and Sell Stock
+## Linked List Cycle
 ---------
 | Status | Accepted |
 | --- | --- |
