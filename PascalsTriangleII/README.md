@@ -8,7 +8,7 @@
 | Submissions | 721.2k |
 | Accepted | 338.6k |
 | Time Complexity | O(n) |
-| Space Complexity | O(n<sup>2</sup>/2 |
+| Space Complexity | O(n<sup>2</sup>)/2 |
 
 Given an integer rowIndex, return the rowIndex<sup>th</sup> (0-indexed) row of the Pascal's triangle.
 
