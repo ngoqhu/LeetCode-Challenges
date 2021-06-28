@@ -2,7 +2,7 @@
 ---------------
 - **Easy: 49**
 - **Medium: 19**
-- **Hard: 2**
+- **Hard: 3**
 
 | # | Title | Difficulty | Category | Language |
 |:---:|---|:-:|:-:|:-:|
@@ -42,6 +42,7 @@
 | 121 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BestTimeToBuySellStocks>Best Time to Buy and Sell Stocks</a> | Easy | Algorithms | Python |
 | 125 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidPalindrome>Valid Palindrome</a> | Easy | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
+| 135 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/Candy>Candy</a> | Hard | Algorithms | Python |
 | 136 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SingleNumber>Single Number</a> | Easy | Algorithms | Python |
 | 141 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LinkedListCycle>Linked List Cycle</a> | Easy | Algorithms | Python |
 | 144 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreePreorderTraversal>Binary Tree Preorder Traversal</a> | Easy | Algorithms | Python |
