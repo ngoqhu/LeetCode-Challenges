@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 49**
+- **Easy: 50**
 - **Medium: 19**
 - **Hard: 3**
 
@@ -48,6 +48,7 @@
 | 144 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreePreorderTraversal>Binary Tree Preorder Traversal</a> | Easy | Algorithms | Python |
 | 145 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreePostorderTraversal>Binary Tree Postorder Traversal</a> | Easy | Algorithms | Python |
 | 150 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/EvaluateReversePolishNotation/README.md>Evaluate Reverse Polish Notation</a> | Medium | Algorithms | Python |
+| 155 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinStack>Min Stack</a> | Easy | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
