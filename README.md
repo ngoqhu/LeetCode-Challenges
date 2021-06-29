@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 50**
+- **Easy: 51**
 - **Medium: 19**
 - **Hard: 3**
 
@@ -74,6 +74,7 @@
 | 729 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MyCalendarI>My Calendar I</a> | Medium | Algorithms | C# |
 | 746 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinCostClimbingStairs>Min Cost Climbing Stairs</a> | Easy | Algorithms | Python |
 | 890 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/FindAndReplacePattern>Find and Replace Patterns</a> | Medium | Algorithms | Python |
+| 1047 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveAllAdjacentDuplicatesInString>Remove All Adjacent Duplicates In String</a> | Easy | Algorithms | Python |
 | 1114 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintInOrder>Print In Order</a> | Easy | Concurrency | C# |
 | 1115 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintFooBarAlternately>Print FooBar Alternately</a> | Medium | Concurrency | C# |
 | 1480 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RunningSumOf1dArray>Running Sum of 1D Array</a> | Easy | Algorithms | Python |
