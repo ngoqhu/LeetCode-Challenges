@@ -2,7 +2,7 @@
 ---------------
 - **Easy: 51**
 - **Medium: 19**
-- **Hard: 3**
+- **Hard: 4**
 
 | # | Title | Difficulty | Category | Language |
 |:---:|---|:-:|:-:|:-:|
@@ -61,6 +61,7 @@
 | 185 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DepartmentTopThreeSalaries>Department Top Three Salaries</a> | Hard | Database | SQL |
 | 196 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DeleteDuplicateEmails>Delete Duplicate Emails</a> | Easy | Database | SQL |
 | 197 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RisingTemperature>Rising Temperature</a> | Easy | Database | SQL |
+| 315 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CountOfSmallerNumbersAfterSelf>Count of Smaller Numbers After Self</a> | Hard | Algorithms | Python |
 | 344 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ReverseString>Reverse String</a> | Easy | Algorithms | Python |
 | 462 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinimumMovesToEqualArrayII>Minimum Moves to Equal Array Elements II</a> | Medium | Algorithms | Python |
 | 595 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BigCountries>Big Countries</a> | Easy | Database | SQL |
