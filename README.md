@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: 53**
+- **Easy: 54**
 - **Medium: 19**
 - **Hard: 4**
 
@@ -52,6 +52,7 @@
 | 160 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/IntersectionOfTwoLinkedLists>Intersection of Two Linked Lists</a> | Easy | Algorithms | Python |
 | 167 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/TwoSumIISortedArray>Two Sum II - Input array is sorted</a> | Easy | Algorithms | Python |
 | 168 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ExcelSheetColumnTitle>Excel Sheet Column Title</a> | Easy | Algorithms | Python |
+| 169 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MajorityElement>Majority Element</a> | Easy | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
