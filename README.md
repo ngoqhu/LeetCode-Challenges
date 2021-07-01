@@ -1,8 +1,8 @@
 ## List of all finished problems
 ---------------
-- **Easy: 54**
-- **Medium: 19**
-- **Hard: 4**
+- **Easy: *54***
+- **Medium: *20***
+- **Hard: *4***
 
 | # | Title | Difficulty | Category | Language |
 |:---:|---|:-:|:-:|:-:|
@@ -29,6 +29,7 @@
 | 70 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClimbingStairs>Climbing Stairs</a> | Easy | Algorithms | Python |
 | 83 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveDuplicatesFromSortedList>Remove Duplicates From Sorted List</a> | Easy | Algorithms | Python |
 | 88 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MergeSortedArray>Merge Sorted Array</a> | Easy | Algorithms | Python |
+| 89 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/GrayCode>Gray Code</a> | Medium | Algorithms | Python |
 | 92 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ReverseLinkedListII>Reverse Linked List II</a> | Medium | Algorithms | Python |
 | 94 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BinaryTreeInorderTraversal>Binary Tree Inorder Traversal</a> | Easy | Algorithms | Python |
 | 97 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/InterleavingStrings>Interleaving Strings</a> | Medium | Algorithms | Python |
