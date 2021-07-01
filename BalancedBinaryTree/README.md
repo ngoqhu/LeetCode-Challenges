@@ -40,5 +40,5 @@ Output: true
 ```
 
 **Constraints**
-- he number of nodes in the tree is in the range [0, 5000].
+- the number of nodes in the tree is in the range [0, 5000].
 - -10<sup>4</sup> <= Node.val <= 10<sup>4</sup>
