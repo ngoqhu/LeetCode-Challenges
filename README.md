@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: *56***
+- **Easy: *57***
 - **Medium: *20***
 - **Hard: *4***
 
@@ -56,6 +56,7 @@
 | 168 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ExcelSheetColumnTitle>Excel Sheet Column Title</a> | Easy | Algorithms | Python |
 | 169 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MajorityElement>Majority Element</a> | Easy | Algorithms | Python |
 | 171 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ExcelSheetColumnNumber>Excel Sheet Column Number</a> | Easy | Algorithms | Python |
+| 172 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/FactorialTrailingZeroes>Factorial Trailing Zeroes</a> | Easy | Algorithms | Python |
 | 175 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CombineTwoTables>Combine Two Tables</a> | Easy | Database | SQL |
 | 176 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SecondHighestSalary>Second Highest Salary</a> | Easy | Database | SQL |
 | 177 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NthHighestSalary>Nth Highest Salary</a> | Medium | Database | SQL |
