@@ -3,8 +3,8 @@
 | Status | Accepted |
 | --- | --- |
 | Difficulty | Easy |
-| Runtime | 0ms (faster than 100% of other python submissions) |
-| Memory usage | 3.2MB (less than 52.80% of other python submissions) |
+| Runtime | 0ms (faster than 100% of other bash submissions) |
+| Memory usage | 3.2MB (less than 52.80% of other bash submissions) |
 | Submissions | 185.4k |
 | Accepted | 47.1k |
 
