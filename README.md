@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: *57***
+- **Easy: *58***
 - **Medium: *20***
 - **Hard: *4***
 
@@ -36,6 +36,7 @@
 | 100 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SameTree>Same Tree</a> | Easy | Algorithms | Python |
 | 101 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SymmetricTree>Symmetric Tree</a> | Easy | Algorithms | Python |
 | 104 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumDepthOfBinaryTree>Maximum Depth of Binary Tree</a> | Easy | Algorithms | Python |
+| 108 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ConvertSortedArrayToBinarySearchTree>Convert Sorted Array to Binary Search Tree</a> | Easy | Algorithms | Python |
 | 110 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BalancedBinaryTree>Balanced Binary Tree</a> | Easy | Algorithms | Python |
 | 111 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinimumDepthOfBinaryTree>Minimum Depth of Binary Tree</a> | Easy | Algorithms | Python |
 | 112 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PathSum>Path Sum</a> | Easy | Algorithms | Python |
