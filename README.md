@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: *59***
+- **Easy: *60***
 - **Medium: *20***
 - **Hard: *4***
 
@@ -69,6 +69,7 @@
 | 183 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CustomersWhoNeverOrdered>Customers Who Never Ordered</a> | Easy | Database | SQL |
 | 184 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DepartmentHighestSalary>Department Highest Salary</a> | Medium | Database | SQL |
 | 185 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DepartmentTopThreeSalaries>Department Top Three Salaries</a> | Hard | Database | SQL |
+| 193 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidPhoneNumbers>Valid Phone Numbers</a> | Easy | Shell | Bash |
 | 196 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DeleteDuplicateEmails>Delete Duplicate Emails</a> | Easy | Database | SQL |
 | 197 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RisingTemperature>Rising Temperature</a> | Easy | Database | SQL |
 | 315 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CountOfSmallerNumbersAfterSelf>Count of Smaller Numbers After Self</a> | Hard | Algorithms | Python |
