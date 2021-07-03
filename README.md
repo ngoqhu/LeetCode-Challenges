@@ -1,6 +1,6 @@
 ## List of all finished problems
 ---------------
-- **Easy: *58***
+- **Easy: *59***
 - **Medium: *20***
 - **Hard: *4***
 
@@ -43,6 +43,7 @@
 | 118 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PascalsTriangle>Pascal's Triangle</a> | Easy | Algorithms | Python |
 | 119 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PascalsTriangleII>Pascal's Triangle II</a> | Easy | Algorithms | Python |
 | 121 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BestTimeToBuySellStocks>Best Time to Buy and Sell Stocks</a> | Easy | Algorithms | Python |
+| 122 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BestTimeToBuySellStockII>Best Time to Buy and Sell Stocks II</a> | Easy | Algorithms | Python |
 | 125 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidPalindrome>Valid Palindrome</a> | Easy | Algorithms | Python |
 | 128 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestConsecutiveSequence>Longest Consecutive Sequence</a> | Medium | Algorithms | Python |
 | 135 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/Candy>Candy</a> | Hard | Algorithms | Python |
