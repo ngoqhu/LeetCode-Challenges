@@ -20,6 +20,9 @@ An interleaving of two strings `s` and `t` is a configuration where they are div
 **Note:** `a + b` is the concatenation of strings `a` and `b`.
 
 **Example 1**
+
+<img src=https://assets.leetcode.com/uploads/2020/09/02/interleave.jpg>
+
 ```
 Input: s1 = "aabcc", s2 = "dbbca", s3 = "aadbbcbcac"
 Output: true
