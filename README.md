@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: *62***
-- **Medium: *21***
+- **Medium: *22***
 - **Hard: *4***
 
 | # | Title | Difficulty | Category | Language |
@@ -74,6 +74,7 @@
 | 196 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DeleteDuplicateEmails>Delete Duplicate Emails</a> | Easy | Database | SQL |
 | 197 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RisingTemperature>Rising Temperature</a> | Easy | Database | SQL |
 | 202 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/HappyNumber>Happy Number</a> | Easy | Algorithms | Python |
+| 300 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/LongestIncreasingSequence>Longest Increasing Sequence</a> | Medium | Algorithms | Python |
 | 315 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CountOfSmallerNumbersAfterSelf>Count of Smaller Numbers After Self</a> | Hard | Algorithms | Python |
 | 344 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ReverseString>Reverse String</a> | Easy | Algorithms | Python |
 | 462 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinimumMovesToEqualArrayII>Minimum Moves to Equal Array Elements II</a> | Medium | Algorithms | Python |
