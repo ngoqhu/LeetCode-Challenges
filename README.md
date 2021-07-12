@@ -2,7 +2,7 @@
 ---------------
 - **Easy: *63***
 - **Medium: *22***
-- **Hard: *5***
+- **Hard: *6***
 
 | # | Title | Difficulty | Category | Language |
 |:---:|---|:-:|:-:|:-:|
@@ -85,6 +85,7 @@
 | 601 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/HumanTrafficOfStadium>Human Traffic Of Stadium</a> | Hard | Database | SQL |
 | 620 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NotBoringMovies>Not Boring Movies</a> | Easy | Database | SQL |
 | 627 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SwapSalary>Swap Salary</a> | Easy | Database | SQL |
+| 639 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DecodeWaysII>Decode Ways II</a> | Hard | Algorithms | Python |
 | 665 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NonDecreasingArray>Non-decresing Array</a> | Medium | Algorithms | Python |
 | 695 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaxAreaOfIsland>Max Area of Island</a> | Medium | Algorithms | Python |
 | 709 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ToLowerCase>To Lower Case</a> | Easy | Algorithms | Python |
