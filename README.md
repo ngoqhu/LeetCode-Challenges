@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: *63***
-- **Medium: *22***
+- **Medium: *23***
 - **Hard: *6***
 
 | # | Title | Difficulty | Category | Language |
@@ -54,6 +54,7 @@
 | 150 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/blob/main/EvaluateReversePolishNotation/README.md>Evaluate Reverse Polish Notation</a> | Medium | Algorithms | Python |
 | 155 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinStack>Min Stack</a> | Easy | Algorithms | Python |
 | 160 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/IntersectionOfTwoLinkedLists>Intersection of Two Linked Lists</a> | Easy | Algorithms | Python |
+| 162 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/FindPeekElement>Find Peak Element</a> | Medium | Algorithms | Python |
 | 167 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/TwoSumIISortedArray>Two Sum II - Input array is sorted</a> | Easy | Algorithms | Python |
 | 168 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ExcelSheetColumnTitle>Excel Sheet Column Title</a> | Easy | Algorithms | Python |
 | 169 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MajorityElement>Majority Element</a> | Easy | Algorithms | Python |
