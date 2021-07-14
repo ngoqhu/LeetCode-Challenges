@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: *63***
-- **Medium: *23***
+- **Medium: *24***
 - **Hard: *6***
 
 | # | Title | Difficulty | Category | Language |
@@ -93,6 +93,7 @@
 | 718 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MaximumLengthOfRepeatedSubarray>Maximum Length of Repeated Subarray</a> | Medium | Algorithms | Python |
 | 729 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MyCalendarI>My Calendar I</a> | Medium | Algorithms | C# |
 | 746 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/MinCostClimbingStairs>Min Cost Climbing Stairs</a> | Easy | Algorithms | Python |
+| 791 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/CustomSortString>Custom Sort String</a> | Medium | Algorithms | Python |
 | 890 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/FindAndReplacePattern>Find and Replace Patterns</a> | Medium | Algorithms | Python |
 | 1047 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/RemoveAllAdjacentDuplicatesInString>Remove All Adjacent Duplicates In String</a> | Easy | Algorithms | Python |
 | 1114 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/PrintInOrder>Print In Order</a> | Easy | Concurrency | C# |
