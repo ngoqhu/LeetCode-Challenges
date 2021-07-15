@@ -1,7 +1,7 @@
 ## List of all finished problems
 ---------------
 - **Easy: *63***
-- **Medium: *24***
+- **Medium: *25***
 - **Hard: *6***
 
 | # | Title | Difficulty | Category | Language |
@@ -84,6 +84,7 @@
 | 595 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/BigCountries>Big Countries</a> | Easy | Database | SQL |
 | 596 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ClassesMoreThanFiveStudents>Classes More Than Five Students</a> | Easy | Database | SQL |
 | 601 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/HumanTrafficOfStadium>Human Traffic Of Stadium</a> | Hard | Database | SQL |
+| 611 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/ValidTriangleNumber>Valid Triangle Number</a> | Medium | Algorithms | Python |
 | 620 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/NotBoringMovies>Not Boring Movies</a> | Easy | Database | SQL |
 | 627 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/SwapSalary>Swap Salary</a> | Easy | Database | SQL |
 | 639 | <a href=https://github.com/ngoqhu/LeetCode-Challenges/tree/main/DecodeWaysII>Decode Ways II</a> | Hard | Algorithms | Python |
